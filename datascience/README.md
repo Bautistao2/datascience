@@ -1,0 +1,4 @@
+PRIMERA APLIACION DATASCIENCE
+
+# version 3.8 de pyhton
+
